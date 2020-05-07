@@ -13,6 +13,8 @@ You will also need to signup and get an api key from Satnogs to run the script.
 Here are the [docs for the Satnogs API](
 https://docs.satnogs.org/projects/satnogs-db/en/stable/api.html). They are a bit sparse :)
 
+I've found it more helpful to just look at the [Satnogs API Source Code](https://gitlab.com/librespacefoundation/satnogs/satnogs-db/-/blob/master/db/api/views.py)
+
 Once you have kaitai installed and your api key, run the script like so:
 
 `SATNOGS_API_KEY=qew923j41n13 download_and_parse.py`
