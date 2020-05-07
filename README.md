@@ -4,7 +4,7 @@
 
 [CSIM Satellite on Satnogs](https://db.satnogs.org/satellite/43793/)
 
-The `.ksy` file defines how the raw bytes from the satellite should be parsed. It comes from the above page.
+The `csim.ksy` file defines how the raw bytes from the satellite should be parsed. It is included in the repo and comes from the above page.
 
 You will need to [install Kaitai](https://kaitai.io/#download) before running this script.
 
