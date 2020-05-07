@@ -46,5 +46,5 @@ def parse_telemetry_from_file(filename):
 
 
 if __name__ == '__main__':
-    #download_telemetry_to_file('tlm.json')
+    download_telemetry_to_file('tlm.json')
     parse_telemetry_from_file('tlm.json')
