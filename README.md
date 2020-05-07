@@ -11,7 +11,7 @@ You will need to [install Kaitai](https://kaitai.io/#download) before running th
 You will also need to signup and get an api key from Satnogs to run the script.
 
 Here are the [docs for the Satnogs API](
-https://docs.satnogs.org/projects/satnogs-db/en/stable/api-satellites.html). They are a bit sparse :)
+https://docs.satnogs.org/projects/satnogs-db/en/stable/api.html). They are a bit sparse :)
 
 Once you have kaitai installed and your api key, run the script like so:
 
